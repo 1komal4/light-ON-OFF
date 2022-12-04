@@ -1,0 +1,25 @@
+@media screen and (max-width: 425px) {
+    body{
+        position: absolute;
+        top:10%;
+        left:5%;
+    }
+    h3{
+        font-size:1.7rem;
+        letter-spacing:1px;
+    }
+    img{
+        position: relative;
+        left:15%;
+        top:0%;
+    }
+    button{
+        position: absolute;
+        top: 110%;
+    }
+    #off{
+        position: absolute;
+        left: 60%;
+        
+    }
+}
